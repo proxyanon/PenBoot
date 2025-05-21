@@ -7,7 +7,7 @@
 
 # Usage
 
-```
+```python
 $ python PenBoot.py
 
 show banner...
