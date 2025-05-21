@@ -39,4 +39,8 @@ No computador: Anonymous
 [Copying ISO <b>iso_abs_path</b> to <b>pendrive_abs_path...</b>]
 [Maybe this will take a while...]
 
+✍️ Change class declaration ex:
+
+penboot = PenBootPy("my_iso.iso", "E:\")
+penboot.main()
 ```
