@@ -7,8 +7,8 @@
 
 # Usage
 
----
-# python PenBoot.py
+```
+<b>python PenBoot.py</b>
 
 show banner...
 
@@ -39,4 +39,4 @@ No computador: Anonymous
 [Copying ISO <b>iso_abs_path</b> to <b>pendrive_abs_path...</b>]
 [Maybe this will take a while...]
 
----
+```
