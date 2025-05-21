@@ -8,7 +8,7 @@
 # Usage
 
 ```
-<b>python PenBoot.py</b>
+$ python PenBoot.py
 
 show banner...
 
