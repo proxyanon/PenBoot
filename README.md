@@ -7,8 +7,8 @@
 
 # Usage
 
----
-# python PenBoot.py
+```python
+$ python PenBoot.py
 
 show banner...
 
@@ -36,7 +36,11 @@ No computador: Anonymous
 [Active pendrive]
 [Finished]
 
-[Copying ISO <b>iso_abs_path</b> to <b>pendrive_abs_path...</b>]
+[Copying ISO iso_abs_path to pendrive_abs_path...]
 [Maybe this will take a while...]
 
----
+✍️ Change class declaration ex:
+
+penboot = PenBootPy("my_iso.iso", "E:\")
+penboot.main()
+```
